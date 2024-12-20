@@ -43,22 +43,22 @@ Estructura del Proyecto
 /evaluacion-m4-ej-1
 │
 ├── src/                   
-│   ├── assets/           
-│   ├── components/ 
+│   ├── assets/            <-- Imágenes y otros recursos estáticos
+│   ├── components/        <-- Componentes reutilizables
 │   │   ├── AppointmentForm.jsx
 │   │   ├── DoctorCard.jsx
 │   │   └── ServiceList.jsx
-│   ├── App.jsx   
-│   ├── main.jsx 
+│   ├── App.jsx            <-- Componente principal
+│   ├── main.jsx           <-- Punto de entrada
 │
-├── node_modules/        
-├── .gitignore               
-├── eslint.config.js        
-├── index.html            
-├── package.json           
-├── package-lock.json     
-├── README.md           
-└── vite.config.js           
+├── node_modules/          <-- Dependencias instaladas
+├── .gitignore             <-- Archivos ignorados por Git
+├── eslint.config.js       <-- Configuración de ESLint
+├── index.html             <-- Archivo HTML raíz
+├── package.json           <-- Configuración del proyecto
+├── package-lock.json      <-- Información detallada de dependencias
+├── README.md              <-- Documentación del proyecto
+└── vite.config.js         <-- Configuración de Vite
 
 ## Instrucciones para Visualizar el Proyecto
 
