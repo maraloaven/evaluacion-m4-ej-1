@@ -43,13 +43,13 @@ Estructura del Proyecto
 /evaluacion-m4-ej-1
 │
 ├── src/                   
-│   ├── assets/              <-- Para recursos estáticos de las siguientes tareas
+│   ├── assets/           
 │   ├── components/ 
 │   │   ├── AppointmentForm.jsx
 │   │   ├── DoctorCard.jsx
 │   │   └── ServiceList.jsx
-│   ├── App.jsx              <-- Componente principal
-│   ├── main.jsx             <-- Punto de entrada de React
+│   ├── App.jsx   
+│   ├── main.jsx 
 │
 ├── node_modules/        
 ├── .gitignore               
